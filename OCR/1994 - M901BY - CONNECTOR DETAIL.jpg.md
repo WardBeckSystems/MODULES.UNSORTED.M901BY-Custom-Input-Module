@@ -1,5 +1,5 @@
 # 1994 - M901BY - CONNECTOR DETAIL.jpg
-Wiki page: [M901BY](../../../PAGES/M901BY.md)
+Wiki page: [M901BY](../../../../PAGES/M901BY.md)
 
 
 - **Year:** 1994 (module estimate (family))
@@ -44,7 +44,7 @@ W 6 I 9 2 1
 
 ```json
 {
- "file": "Modules/UNSORTED/M901BY/1994 - M901BY - CONNECTOR DETAIL.jpg",
+ "file": "Modules/UNSORTED/M901BY/MANUALS/1994 - M901BY - CONNECTOR DETAIL.jpg",
  "sha256": "ceea86675a56ba5e6fdb2ba8902636cc2ba387e1885c7f469fabb68df380a569",
  "kind": "module",
  "models": [
