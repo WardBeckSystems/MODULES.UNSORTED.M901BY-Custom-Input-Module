@@ -1,5 +1,5 @@
 # 1994 - M901BY - CONNECTOR DETAIL.jpg
-Wiki page: [M901BY](../../../../PAGES/M901BY.md)
+Wiki page: [M901BY](../)
 
 
 - **Year:** 1994 (module estimate (family))

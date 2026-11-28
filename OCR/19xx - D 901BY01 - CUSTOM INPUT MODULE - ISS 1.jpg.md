@@ -1,5 +1,5 @@
 # 19xx - D 901BY01 - CUSTOM INPUT MODULE - ISS 1.jpg
-Wiki page: [M901BY](../../../../PAGES/M901BY.md)
+Wiki page: [M901BY](../)
 
 
 - **Year:** unknown (title block (read by eye))
