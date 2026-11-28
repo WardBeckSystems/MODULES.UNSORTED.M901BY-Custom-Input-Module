@@ -21,6 +21,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1fxNifDaEAo6yz_d8UIFdgU6chodkYLIH/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1fxNifDaEAo6yz_d8UIFdgU6chodkYLIH" width="240" alt="1994 - M901BY - DOC - 940444-03-006 - LOVG FULL RAD SLOT SEE NOTE DOR ENTATIONS.jpg"></a><br><sub>1994|27 · DOC - 940444-03-006 - LOVG FULL RAD SLOT SEE NOTE DOR ENTATIONS · <a href="MECHANICAL/1994%20-%20M901BY%20-%20DOC%20-%20940444-03-006%20-%20LOVG%20FULL%20RAD%20SLOT%20SEE%20NOTE%20DOR%20ENTATIONS%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M901BY.stl`](MECHANICAL/M901BY.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M901BY)
+
+- **Size:** 41 × 396.61 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 15 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M901BY - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M901BY.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Manuals and documents
 
 _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ads and other document scans._
