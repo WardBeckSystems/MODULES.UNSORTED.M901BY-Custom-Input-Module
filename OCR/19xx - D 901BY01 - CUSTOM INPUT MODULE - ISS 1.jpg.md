@@ -150,7 +150,7 @@ ISSUE
 
 ```json
 {
- "file": "Modules/UNSORTED/M901BY/MANUALS/19xx - D 901BY01 - CUSTOM INPUT MODULE - ISS 1.jpg",
+ "file": "Modules/RENAISSANCE/M901BY/MANUALS/19xx - D 901BY01 - CUSTOM INPUT MODULE - ISS 1.jpg",
  "sha256": "d38a1acacca0cde33c252d2342748cefeb3a7a1d7b09bbdef37e50d5e820acf6",
  "kind": "module",
  "models": [
